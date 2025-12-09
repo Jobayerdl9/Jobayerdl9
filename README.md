@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Jobayer Hossain  
 
-<!--
-**Jobayerdl9/Jobayerdl9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 Jr. QA Engineer | Manual • API • AI/LLM Testing  
+**6–12 months of hands-on experience testing real-world AI & SaaS products**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+
+I’m a **detail-oriented Junior QA Engineer** with experience testing **AI-powered EdTech platforms and Finance applications**.  
+I focus on **quality, clarity, and user impact**, ensuring products are reliable, scalable, and bug-free before reaching users.
+
+I strongly believe that **good testing is not about clicking buttons — it’s about thinking like a user and breaking the system responsibly.**
+
+---
+
+## 🏗️ Products I've Tested  
+
+✅ **Tututor.AI** – AI-based EdTech learning platform  
+✅ **Aprendemos.AI** – AI-driven educational web application  
+✅ **Finoro** – Finance application  
+
+---
+
+## 🧪 QA Expertise  
+
+- ✅ Manual Testing (Functional, Regression, Smoke, UI/UX)  
+- ✅ API Testing (REST APIs, Validation, Error handling)  
+- ✅ AI / LLM Testing (Prompt validation, response accuracy, edge cases)  
+- ✅ Test Scenario & Test Case Design  
+- ✅ Bug Reporting with clear steps & evidence  
+
+---
