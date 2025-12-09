@@ -76,9 +76,9 @@ I strongly believe that **good testing is not about clicking buttons — it’s 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobayerHossain&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jobayerdl9&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JobayerHossain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayerdl9&layout=compact&theme=tokyonight)
 
 ---
 
