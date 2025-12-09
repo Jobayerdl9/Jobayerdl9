@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&color=0:020617,50:0f172a,100:020617&text=Jobayer%20Hossain&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="./Jobayer Github Banner.gif" alt="Jobayer Hossain — QA Engineer" style="width:100%; max-width:1000px; display:block; margin:0 auto; border-radius:10px;" />
+</p>
 
 # 👋 Hi, I'm Jobayer Hossain  
 
