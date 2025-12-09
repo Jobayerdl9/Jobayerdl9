@@ -31,3 +31,61 @@ I strongly believe that **good testing is not about clicking buttons — it’s 
 - ✅ Bug Reporting with clear steps & evidence  
 
 ---
+
+## 🛠️ Tools & Technologies  
+
+**Test Management & Documentation**  
+- ClickUp  
+- GitHub  
+
+**Testing Tools**  
+- Postman  
+- JMeter  
+- BlazeMeter  
+- Selenium (basic exposure)  
+
+**Testing Artifacts**  
+- Test Cases  
+- Bug Reports  
+- Test Plans  
+- Test Summary Reports  
+
+---
+
+## 🚀 What I’m Currently Improving  
+
+- Advanced API Testing strategies  
+- Performance & Load Testing  
+- AI/LLM Quality Validation techniques  
+- Test documentation best practices  
+- Preparing for QA Engineer roles in AI & SaaS companies  
+
+---
+
+## 🧩 QA Mindset  
+
+> 🔍 *“A good QA doesn’t just find bugs — they prevent future failures.”*
+
+- Detail-oriented  
+- Strong logical thinking  
+- User-first approach  
+- Clear communicator  
+- Continuous learner  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobayerHossain&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JobayerHossain&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 **Role:** Jr QA Engineer  
+- 🧠 **Focus:** Manual, API & AI Testing  
+- 🌱 **Open to:** Learning & growth opportunities  
+
+---
