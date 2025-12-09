@@ -1,3 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&height=220
+&section=header
+&color=0:0f172a,50:1e3a8a,100:38bdf8
+&text=Jobayer%20Hossain
+&fontSize=48
+&fontAlignY=38
+&fontColor=ffffff
+&animation=twinkling" />
+
 # 👋 Hi, I'm Jobayer Hossain  
 
 ### 🧪 Jr. QA Engineer | Manual • API • AI/LLM Testing  
