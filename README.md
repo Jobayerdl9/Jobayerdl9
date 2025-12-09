@@ -70,24 +70,14 @@ I strongly believe that **good testing is not about clicking buttons — it’s 
 - Strong logical thinking  
 - User-first approach  
 - Clear communicator  
-- Continuous learner  
-
----
-
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jobayerdl9&show_icons=true&hide_title=true&count_private=true&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com?user=Jobayerdl9&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayerdl9&layout=compact&cache_seconds=1800" />
-
+- Continuous learner
+- 
 ---
 
 ## 📫 Let’s Connect  
 
 - 💼 **Role:** Jr QA Engineer  
 - 🧠 **Focus:** Manual, API & AI Testing  
-- 🌱 **Open to:** Learning & growth opportunities  
+- 🌱 **Open to:** Learning & growth opportunities
 
 ---
