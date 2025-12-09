@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jobayer Hossain  
 
 ### 🧪 Jr. QA Engineer | Manual • API • AI/LLM Testing  
-**6–12 months of hands-on experience testing real-world AI & SaaS products**
+**8 months of hands-on experience testing real-world AI & SaaS products**
 
 ---
 
